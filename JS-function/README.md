@@ -1,4 +1,4 @@
-# Lesson Name
+# Functions
 
 ---
 
@@ -8,9 +8,9 @@
 -
 
 ### Readings
-1.
-2.
-3.
+1. [JavaScript Functions (W3)](http://www.w3schools.com/js/js_functions.asp)
+2. [Everything You Wanted To Know About JS Scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+
 
 #### Further Readings
 1.
@@ -27,13 +27,13 @@
 #### Subtopic
 
 
-### 2. Topic
+### 2. Scope
 #### Subtopic
 #### Subtopic
 #### Subtopic
 
 
-### 3. Topic
+### 3.
 #### Subtopic
 #### Subtopic
 #### Subtopic

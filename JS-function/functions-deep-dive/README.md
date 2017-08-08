@@ -1,14 +1,8 @@
-- title:  JavaScript Fundamentals: Functions Deep Dive
-- tags:  functions, javascript
 
-# Objectives
-* Be able to explain scope basics
-* Understand the difference between anonymous and named functions
+
 
 # Resources
-- [JavaScript Functions (W3)](http://www.w3schools.com/js/js_functions.asp)
-- [JavaScript Scope](http://www.w3schools.com/js/js_scope.asp)
-- [Everything You Wanted To Know About JS Scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+
 
 #Lecture
 ##Functions are everywhere
@@ -16,21 +10,12 @@ Functions are the fundamental building blocks of JavaScript programs. Functions 
 
 Functions are everywhere in JavaScript, including things like `console.log`, `prompt`, and array methods.
 
-##Global vs local
-JavaScript variables can either be global or local. It is generally bad practice to create global variables. There is typically a single global variable that holds all other variables (e.g. `window`). 
+
 
 ##Function declaration vs function expression
 There are two ways od defining functions: function expressions, and function declarations. Function declarations are completely hoisted; with function expressions, only the variable gets hoisted.
 
-##Intro to scope
-Read the following: [JavaScript Scope](http://www.w3schools.com/js/js_scope.asp)
 
-And try to answer these questions:
-- What is 'scope?'
-- What's the difference between global and local variables?
-- How do we create local variables?
-- What's the importance of using the `var` keyword?
-- How do we create new scope in JavaScript?
 
 ##Exercises
 [Scope Exercises](scope-exercises.md)
@@ -89,4 +74,3 @@ function four() {
 	console.log('four')
 }
 ```
-

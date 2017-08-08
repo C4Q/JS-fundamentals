@@ -20,7 +20,7 @@
 **Discussion:** What's the importance of style? How do we know what's good style and what's bad style?
 
 ##Intro to advanced array methods
-Array methods are a really powerful tool in JavaScript. Specifically, methods like `map`, `filter`, and `reduce` make solving certain problems (for example, a lot of problems that we've previously been using loops to solve) a lot easier. Let's learn how they work!
+Array methods are a really powerful tool in JavaScript. Specifically, methods like `map`, `filter`, and `reduce` make solving certain problems (for example, a lot of problems that we've previously been using loops to solve) a lot easier.
 
 ##Abstraction
 In the context of programming, abstractions hide details and give us the ability to talk about problems at a higher (or more abstract) level. What are some examples of abstractions within JavaScript?
@@ -35,10 +35,7 @@ Read over the following: [Pure vs Impure Functions](http://www.nicoespeon.com/en
 ###Demo: Advanced array methods part 1
 Read [this article](http://www.w3schools.com/jsref/jsref_obj_array.asp) to find the definitions of the below methods, and try to define what each is used for. What is the purpose of passing in a function as an argument to each of these functions?
 
-- `sort` 
-- `reverse`
-- `every`
-- `some
+
 
 ##Exercises
 [Advanced Array Methods Exercises Part 1](advanced-array-methods-exercises.md)

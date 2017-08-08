@@ -1,14 +1,5 @@
-### Q1. Evaluate all combinations of A && B with the different JavaScript types. What returns from each statement?
-```js
-'string1' && 'string2'
-string && number
-undefined && null
-```
+typeof typeof 
 
-### Q2. Evaluate all combinations of A || B with the different JavaScript types. What returns from each statement?
-```js
-```
-
-### Q3
-### Q4
-### Q5
+### Q3. Type Coercion -
+add 2 + "3"
+add "3" + 2
